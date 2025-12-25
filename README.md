@@ -19,3 +19,4 @@ LiquidStateEdgeOfCriticality.lean
 MildAsymmetricNewtonsCradleAnalogProcessor.lean
 NewtonsCradleLinearAnalogProcessor.lean
 ObserverSamplingMajorityBias.lean
+TensionSpiderProcessor.lean
