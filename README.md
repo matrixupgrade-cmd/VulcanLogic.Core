@@ -13,3 +13,4 @@ GenericHybridSpiders.lean
 HybridSpidersMetamorphosis.lean
 HybridSpidersPhaseTrichotomy.lean
 InnerTensionSpider.lean
+InnerTensionSpider_2.lean
