@@ -21,3 +21,4 @@ NewtonsCradleLinearAnalogProcessor.lean
 ObserverSamplingMajorityBias.lean
 TensionSpiderProcessor.lean
 TensionSpider_EmergentPDE.lean
+TensionSpider_emergentTopology.lean
