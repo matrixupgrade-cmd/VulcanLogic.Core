@@ -16,6 +16,7 @@ InnerTensionSpider.lean
 InnerTensionSpider_2.lean
 InnerTensionSpider_observerEffect.lean
 LiquidStateEdgeOfCriticality.lean
+Metamorphosis_Finite_Proven.lean
 MildAsymmetricNewtonsCradleAnalogProcessor.lean
 NewtonsCradleLinearAnalogProcessor.lean
 ObserverSamplingMajorityBias.lean
