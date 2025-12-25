@@ -20,3 +20,4 @@ MildAsymmetricNewtonsCradleAnalogProcessor.lean
 NewtonsCradleLinearAnalogProcessor.lean
 ObserverSamplingMajorityBias.lean
 TensionSpiderProcessor.lean
+TensionSpider_EmergentPDE.lean
