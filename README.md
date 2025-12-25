@@ -23,3 +23,4 @@ TensionSpiderProcessor.lean
 TensionSpider_EmergentPDE.lean
 TensionSpider_emergentTopology.lean
 TiltAwareInference.lean
+UnifiedComputation.lean
