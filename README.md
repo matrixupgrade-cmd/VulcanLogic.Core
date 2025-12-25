@@ -7,6 +7,7 @@ CoreWisdomWithinEdgeOfCriticality.lean
 CouplingSystem.lean
 CouplingSystemWithEntropy.lean
 CyclicCompassNetwork.lean
+Example_SpiderMetamorphosisGoldbach.lean
 Example_TensionSpiders_emergentPDE.lean
 FiniteDynamicalSystemInjectionFramework.lean
 GenericHybridSpiders.lean
