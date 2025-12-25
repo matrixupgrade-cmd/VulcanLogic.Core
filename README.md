@@ -25,3 +25,4 @@ TensionSpider_emergentTopology.lean
 TiltAwareInference.lean
 UnifiedComputation.lean
 UniversalAsymmetryCoop.lean
+VectorFiberHybridSpider.lean
