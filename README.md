@@ -12,3 +12,4 @@ FiniteDynamicalSystemInjectionFramework.lean
 GenericHybridSpiders.lean
 HybridSpidersMetamorphosis.lean
 HybridSpidersPhaseTrichotomy.lean
+InnerTensionSpider.lean
