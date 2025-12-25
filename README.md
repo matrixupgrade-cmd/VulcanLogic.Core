@@ -6,3 +6,4 @@ CanonicalEmergentBell.lean
 CoreWisdomWithinEdgeOfCriticality.lean
 CouplingSystem.lean
 CouplingSystemWithEntropy.lean
+CyclicCompassNetwork.lean
