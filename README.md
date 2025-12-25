@@ -18,3 +18,4 @@ InnerTensionSpider_observerEffect.lean
 LiquidStateEdgeOfCriticality.lean
 MildAsymmetricNewtonsCradleAnalogProcessor.lean
 NewtonsCradleLinearAnalogProcessor.lean
+ObserverSamplingMajorityBias.lean
