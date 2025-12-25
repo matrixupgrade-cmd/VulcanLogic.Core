@@ -7,3 +7,4 @@ CoreWisdomWithinEdgeOfCriticality.lean
 CouplingSystem.lean
 CouplingSystemWithEntropy.lean
 CyclicCompassNetwork.lean
+Example_TensionSpiders_emergentPDE.lean
