@@ -20,7 +20,6 @@ MildAsymmetricNewtonsCradleAnalogProcessor.lean
 NewtonsCradleLinearAnalogProcessor.lean
 ObserverSamplingMajorityBias.lean
 TensionSpiderProcessor.lean
-TiltAwareInference.lean
-
 TensionSpider_EmergentPDE.lean
 TensionSpider_emergentTopology.lean
+TiltAwareInference.lean
