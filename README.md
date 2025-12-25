@@ -5,3 +5,4 @@ AsymmetrySignatureTheorem.lean
 CanonicalEmergentBell.lean
 CoreWisdomWithinEdgeOfCriticality.lean
 CouplingSystem.lean
+CouplingSystemWithEntropy.lean
