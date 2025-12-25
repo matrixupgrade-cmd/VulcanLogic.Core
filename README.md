@@ -14,3 +14,4 @@ HybridSpidersMetamorphosis.lean
 HybridSpidersPhaseTrichotomy.lean
 InnerTensionSpider.lean
 InnerTensionSpider_2.lean
+InnerTensionSpider_observerEffect.lean
