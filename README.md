@@ -11,3 +11,4 @@ Example_TensionSpiders_emergentPDE.lean
 FiniteDynamicalSystemInjectionFramework.lean
 GenericHybridSpiders.lean
 HybridSpidersMetamorphosis.lean
+HybridSpidersPhaseTrichotomy.lean
