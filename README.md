@@ -126,6 +126,7 @@ InnerTensionSpider_2.lean
 InnerTensionSpider_observerEffect.lean
 LiquidPhaseCyclicGroups.lean
 LiquidStateEdgeOfCriticality.lean
+MetaIterationDynamics.lean
 Metamorphosis_Finite_Proven.lean
 MildAsymmetricNewtonsCradleAnalogProcessor.lean
 NewtonsCradleLinearAnalogProcessor.lean
