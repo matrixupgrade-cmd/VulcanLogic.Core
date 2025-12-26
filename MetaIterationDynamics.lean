@@ -1,7 +1,9 @@
 /-!
 # MetaIterationDynamics
 # Time of Time — Meta-Iteration and Phase of Time Itself
-Author: VulcanLogic Architect Sean Timothy
+Human Author: VulcanLogic Architect Sean Timothy
+Main A.i. Collaberators: xAi Grok, OpenAI ChatGPT
+Minor A.i. Collaberators: Highflyer Deepseek
 Date: 2025-12-25
 
 Lean sketch 
