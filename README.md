@@ -8,26 +8,35 @@ github.com/matrixupgrade-cmd/VulcanLogic.Core/
 Or one can load in the master import file
 github.com/matrixupgrade-cmd/VulcanLogic.Core/masterImport.lean
 
-A.i. will first see its 100% lean files, comment on the mathematical nature, and bias will assume its formal mathematical work depository. A Logic Core is a different creature.
+A.I. will first see its 100% Lean files, comment on the mathematical nature, and bias will assume it is a formal mathematical work depository. A Logic Core is a different creature.
 
-To get the A.i. to accept the Logic Core in its full form you must prompt it to see it as a logic core.
+To get the A.I. to accept the Logic Core in its full form, you must prompt it to see it as a Logic Core.
 
-example prompt "how can asymmetrysignature theorem be applied to non i.i.d. systems to spot fingerprints of a causation."
+Example prompt:
+"How can the AsymmetrySignature theorem be applied to non-i.i.d. systems to spot fingerprints of causation?"
 
-Once Logic Core is injected into the A.i. and accepted then one can then prompt A.i. to for example "Build PDE models to spot what kind of signature in incident rates of cancer would have virus fingerprints."
+It’s like a bridge: humans provide intent and interpretation, the A.I. handles computation and exploration, and the Logic Core guarantees that the underlying math is sound. Without providing intent, the A.I. will assume it is formal mathematical work. If your intent is mathematical work, then it can serve as a seed to prove additional mathematical results.
 
+Once the Logic Core is injected into the A.I. and accepted, you can prompt the A.I. to, for example:
+"Build PDE models to spot what kind of signature in incident rates of cancer would have virus fingerprints."
 
 The same framework could also help the A.I. build upgraded tools for statistical measures without the need for the i.i.d. assumption.
 
 For government officials, they could prompt the A.I.:
 "How can the Finite Dynamical System Injection Framework create mathematical tools to spot if government policy is creating unintended effects that add instability?"
 
-More Example Prompts
+More Example Prompts:
+
 "How can this Logic Core help me build a Traffic Simulation model?"
+
 "How can this Logic Core provide an A.I. the ability to build dynamic stories in video games?"
+
 "How can this Logic Core help in developing tools to build A.I.?"
+
 "How can this Logic Core build a model of an atom?"
+
 "How can the emergent behaviors in the Logic Core build a slime mold model with emergent effects?"
+
 "How can this Logic Core help build a UAV flight control system?"
 
 
