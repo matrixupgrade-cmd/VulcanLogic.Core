@@ -154,7 +154,6 @@ turningUniversality.lean
 
 credits.lean
 
-/-!
 ====================================================================
 Credits — Authorship & Collaboration for VulcanLogic.Core
 ====================================================================
@@ -181,5 +180,3 @@ License / Use Notes:
 This file and the VulcanLogic.Core library may be cited with credit to
 the human author and AI collaborators as listed above.
 
-====================================================================
--/
