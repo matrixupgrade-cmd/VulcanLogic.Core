@@ -61,6 +61,9 @@ Liquid phases realized as positive-period cyclic group actions.
 LiquidStateEdgeOfCriticality.lean
 Liquid as the robust phase at the edge of criticality.
 
+MetaIterationDynamics.lean
+Nested iteration schedules form a dynamic system that can't stay forever chaotic.
+
 Metamorphosis_Finite_Proven.lean
 Fully verified finite-state metamorphosis theorem.
 
