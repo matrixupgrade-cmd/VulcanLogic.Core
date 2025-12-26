@@ -154,9 +154,7 @@ turningUniversality.lean
 
 credits.lean
 
-====================================================================
 Credits — Authorship & Collaboration for VulcanLogic.Core
-====================================================================
 
 All files in the VulcanLogic.Core library represent original, human-directed
 research and formalization. AI systems were used as collaborative assistants.
