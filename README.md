@@ -115,46 +115,6 @@ turningUniversality.lean
 Universality of turning and metamorphosis in finite processors.
 
 
-
-credits.lean
-AsymmetrySignatureTheorem.lean
-CanonicalEmergentBell.lean
-CoreWisdomWithinEdgeOfCriticality.lean
-CouplingSystem.lean
-CouplingSystemWithEntropy.lean
-CyclicCompassNetwork.lean
-Example_SpiderMetamorphosisGoldbach.lean
-Example_TensionSpiders_emergentPDE.lean
-FiniteDynamicalSystemInjectionFramework.lean
-GenericHybridSpiders.lean
-HybridSpidersMetamorphosis.lean
-HybridSpidersPhaseTrichotomy.lean
-InnerTensionSpider.lean
-InnerTensionSpider_2.lean
-InnerTensionSpider_observerEffect.lean
-LiquidPhaseCyclicGroups.lean
-LiquidStateEdgeOfCriticality.lean
-MetaIterationDynamics.lean
-Metamorphosis_Finite_Proven.lean
-MildAsymmetricNewtonsCradleAnalogProcessor.lean
-NewtonsCradleLinearAnalogProcessor.lean
-ObserverSamplingMajorityBias.lean
-PhaseCascade.lean
-Phase_Trichotomy_Theorem.lean
-TensionSpiderProcessor.lean
-TensionSpider_EmergentPDE.lean
-TensionSpider_emergentTopology.lean
-TiltAwareInference.lean
-UnifiedComputation.lean
-UniversalAsymmetryCoop.lean
-Universal_Optionality.lean
-VectorFiberHybridSpider.lean
-emergentGeometries.lean
-hybrid_spider_phase_trichotomy.lean
-innovativeOp.lean
-turningUniversality.lean
-
-
 #Credits
 
 credits.lean
