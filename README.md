@@ -1,6 +1,9 @@
 # VulcanLogic.Core
 VulcanLogic.Core is a maximally general mathematical Logic Core that captures the inevitable dynamics of interacting parts. It is fully formalized in Lean, proof-verified, and designed to be domain-agnostic: from biology to traffic networks, AI to finance, its abstract structures reveal unavoidable patterns and emergent behaviors. Load the Core into an AI assistant or use the master import file to explore, simulate, and reason about complex systems with guaranteed mathematical rigor.
 
+### Disclaimer: 
+The contents of VulcanLogic.Core are fully formalized in Lean and mathematically rigorous, but applying them outside of their formal context may not always yield accurate or reliable results. Users should verify any conclusions independently and not assume correctness in real-world applications.
+
 ---
 
 ## How to Use
