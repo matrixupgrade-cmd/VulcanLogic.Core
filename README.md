@@ -2,7 +2,9 @@
 Lean Math Proofs about Finite Dynamics to help A.i. reason about complex systems
 
 # How to Use
-//to do  create master import file
+
+masterImport.lean
+
 While the files are deceptive in their generic math nature, the basic assumption is if you have parts that are interacting here is the mathematical consequences. But how you use it is that you treat it as a mathematical superposition ready to shift to biology, ecology, network theory, physics, sociology, medical research, engineering research, A.i. development, ... the nature of the Logic Core is that its assumptions off first principle are generic enough to apply to almost everything, but the results are powerful enough to be highly meaningful for every field. 
 
 # Narrative Encoded
@@ -18,6 +20,9 @@ Therefore, resilient multi-scale systems are inevitably Liquid — cooperative, 
 
 
 # Files and Discription 
+
+masterImport.lean
+Import this file and it imports the entire depository ready for A.i. to build off the logic core.
 
 AsymmetrySignatureTheorem.lean
 The signature of calibrated asymmetry as the origin of expanded basins.
