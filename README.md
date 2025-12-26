@@ -111,7 +111,7 @@ Universality of turning and metamorphosis in finite processors.
 
 
 
-
+credits.lean
 AsymmetrySignatureTheorem.lean
 CanonicalEmergentBell.lean
 CoreWisdomWithinEdgeOfCriticality.lean
