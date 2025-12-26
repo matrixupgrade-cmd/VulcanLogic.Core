@@ -2,10 +2,10 @@
 VulcanLogic.Core is a maximally general mathematical Logic Core that captures the inevitable dynamics of interacting parts. It is fully formalized in Lean, proof-verified, and designed to be domain-agnostic: from biology to traffic networks, AI to finance, its abstract structures reveal unavoidable patterns and emergent behaviors. Load the Core into an AI assistant or use the master import file to explore, simulate, and reason about complex systems with guaranteed mathematical rigor.
 
 # How to Use
-Prompt LLM A.i. or other A.i. type assistant to reveiw files at
+Prompt an LLM A.I. or other A.I.-type assistant to review the files at:
 github.com/matrixupgrade-cmd/VulcanLogic.Core/
 
-Or one can load in the master import file
+Alternatively, you can load the master import file:
 github.com/matrixupgrade-cmd/VulcanLogic.Core/masterImport.lean
 
 A.I. will first see its 100% Lean files, comment on the mathematical nature, and bias will assume it is a formal mathematical work depository. A Logic Core is a different creature.
