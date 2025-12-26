@@ -29,6 +29,7 @@ TensionSpider_emergentTopology.lean
 TiltAwareInference.lean
 UnifiedComputation.lean
 UniversalAsymmetryCoop.lean
+Universal_Optionality.lean
 VectorFiberHybridSpider.lean
 emergentGeometries.lean
 hybrid_spider_phase_trichotomy.lean
