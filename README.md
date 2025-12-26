@@ -22,6 +22,7 @@ Metamorphosis_Finite_Proven.lean
 MildAsymmetricNewtonsCradleAnalogProcessor.lean
 NewtonsCradleLinearAnalogProcessor.lean
 ObserverSamplingMajorityBias.lean
+PhaseCascade.lean
 Phase_Trichotomy_Theorem.lean
 TensionSpiderProcessor.lean
 TensionSpider_EmergentPDE.lean
