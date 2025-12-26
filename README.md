@@ -139,7 +139,7 @@ turningUniversality.lean
 Universality of turning and metamorphosis in finite processors.
 
 
-##Credits
+## Credits
 
 credits.lean
 
