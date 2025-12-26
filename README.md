@@ -2,34 +2,33 @@
 VulcanLogic.Core is a maximally general mathematical Logic Core that captures the inevitable dynamics of interacting parts. It is fully formalized in Lean, proof-verified, and designed to be domain-agnostic: from biology to traffic networks, AI to finance, its abstract structures reveal unavoidable patterns and emergent behaviors. Load the Core into an AI assistant or use the master import file to explore, simulate, and reason about complex systems with guaranteed mathematical rigor.
 
 # How to Use
-Prompt LLM A.i. or other A.i. assistant to reveiw files at
+Prompt LLM A.i. or other A.i. type assistant to reveiw files at
 github.com/matrixupgrade-cmd/VulcanLogic.Core/
 
 Or one can load in the master import file
 github.com/matrixupgrade-cmd/VulcanLogic.Core/masterImport.lean
 
-A.i. will first see its 100% lean files, comment on the mathematical nature, and bias will assume its formal mathematical work depository. While yes the files are lean proof verified from first principle and likely could be published in mathematical journals, a Logic Core is a different creature.
+A.i. will first see its 100% lean files, comment on the mathematical nature, and bias will assume its formal mathematical work depository. A Logic Core is a different creature.
 
-To get the A.i. to accept the Logic Core in its full form you must prompt it for example.
-prompt "how can asymmetrysignature theorem be applied to non i.i.d. systems to spot fingerprints of causation."
+To get the A.i. to accept the Logic Core in its full form you must prompt it to see it as a logic core.
 
-Once Logic Core is injected into the A.i. then one can then prompt A.i. to for example "build PDE models to spot what kind of signature in incident rates of cancer that would have virus fingerprints."
+example prompt "how can asymmetrysignature theorem be applied to non i.i.d. systems to spot fingerprints of a causation."
 
-The same framework for example could help A.i. build upgraded tools for statistical measures without the need of i.i.d. assumption.
+Once Logic Core is injected into the A.i. and accepted then one can then prompt A.i. to for example "Build PDE models to spot what kind of signature in incident rates of cancer would have virus fingerprints."
 
-For government officials they could for example prompt a.i.
-"How can Finite Dynamical System Injection Framework create mathematical tools to spot if government policy is creating unintended effects that add instability."
 
-Logic Core is like a superposition the user must collapse with bias towards a specific goal.
+The same framework could also help the A.I. build upgraded tools for statistical measures without the need for the i.i.d. assumption.
 
-Example Prompts:
-Prompt "how can this logic core help me build a Traffic Simulation model."
-Prompt "how can this logic core provide a.i. the ability to build dynamic stories in video games."
-Prompt "how can this logic core help in developing tools to build a.i."
-Prompt "how can this logic core build a model of an atomic atom"
-Prompt "how can these emergent bahaviors in the logic core build a slime mold model with emergent effects"
-Prompt "how can this logic core help build a UAV flight system"
+For government officials, they could prompt the A.I.:
+"How can the Finite Dynamical System Injection Framework create mathematical tools to spot if government policy is creating unintended effects that add instability?"
 
+More Example Prompts
+"How can this Logic Core help me build a Traffic Simulation model?"
+"How can this Logic Core provide an A.I. the ability to build dynamic stories in video games?"
+"How can this Logic Core help in developing tools to build A.I.?"
+"How can this Logic Core build a model of an atom?"
+"How can the emergent behaviors in the Logic Core build a slime mold model with emergent effects?"
+"How can this Logic Core help build a UAV flight control system?"
 
 
 # Files and Discription 
